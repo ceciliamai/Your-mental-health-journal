@@ -18,6 +18,6 @@ Download the index.html file from this repository.
 Double-click the file to open it in any web browser (Chrome, Firefox, Edge, Safari).
 Start using the journal immediately!
 Option 2: Host with GitHub Pages (Live Demo) A live demo is available at:
-https://ceciliamai.github.io/mental-health-journal-/
+https://ceciliamai.github.io/Your-mental-health-journal/
 
 Theme Alignment This project aligns with the hackathon theme of mental health and wellness by providing a free, accessible tool for users to reflect on their emotional well-being.
